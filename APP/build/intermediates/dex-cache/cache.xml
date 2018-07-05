@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_12f07259f215aa029f245d2d3cd22ffb9a850e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_46c1fad0b6407d4d82bd80d9a0dd845e62add056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3df4ccc1eb467d3c34da6d0eeecad16a458bbffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\13745\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_3b4ea010fb53a050c5534befc2ec0bd226b255d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2ef16a9893dbc6d3b7eb3c87a6c4fe89ee064129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_890a3247fc384cd4f509c98529c5c2ffb8f19ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e122b82ff4de2d86fe4ee03d69592d8a508c20be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_10410321e44f419a353f04c9c49479a838541f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_6ea21d868874b7b765eeaae0b1d65c5a1b0af0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_74e9e224b75332993ebc83dc21e4d0983003dc43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\13745\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_64d63d8cb5695eae8d91dff19e3662afdf829631\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3b1364ca9acdf717fb98f9a3d5f685253275e737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5000a694c84eea26ddf6782698bc483ac6cc94a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\org.litepal.android\core\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="db185f06215220526d21bbf467cae061956cc185">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.litepal.android-core-1.5.1_08c519fbf73cf3609122b53a42ef954e1aafab39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_eca00dffe6e17cf8ed70353ef05977481226aa87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_1c913a295cec0cb81cc30be6a1ddf4f40e3e987d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7746369fa27cceb525736b4267461e18a05a6d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8fc1258500f1a6159f2f059432b262e6d81543e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f7de33fc3420be54a64aadfb91b0daef6f20e80c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_8860fe27f7129fbbe2ae22c588eb6d8f5092e7de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_eeb17d55bc3c4231f2959f92658af670464c9ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89b50c667d67b83815ac99fe098fc73627cef1ac">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_acfc82988efec2b726a114cdf0072687314ebf6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_941c0a768e9fc0bec38d92e6cf07115954b36624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\13745\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.1_35ae4a88a418199f82ebd2761d84674a51e94ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_328e1003b4544141bb24af2e52630c3d6c9897be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\13745\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_5dbb9c2be55fed7a9170d277abb5a8a749471af2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_eaa7d81b47c6bf59c4f7b34eaaa0dc590524d29e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_526ed454b24f8d7770fe1b3648cbc2777e789727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_workspace\SweetWard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1254ca59e6aaa13baf1f11b265b4c703b47e700f">
+        <dex dex="D:\Android_workspace\SweetWard\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d67c8b401de6d0ab3e34a76d5da5a23d9ecd962\classes.dex" />
+    </item>
+
+</items>
