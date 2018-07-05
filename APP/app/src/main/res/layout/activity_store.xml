@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_store"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.a13745.sweetward.activity.StoreActivity">
+
+
+    <LinearLayout
+        android:id="@+id/StoreMainlinelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_gravity="left"
+            android:id="@+id/Storelinelayout1"
+            android:orientation="vertical"
+            android:layout_weight="6"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content">
+
+
+            <ImageButton
+                android:id="@+id/Store_left_next_icon"
+                android:scaleType="center"
+                android:src="@drawable/left_next_icon"
+                android:background="#00000000"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Storelinelayout2"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="20"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/Store_up_cloth"
+                android:maxHeight="1000dip"
+                android:maxWidth="1000dip"
+                android:scaleType="fitCenter"
+                android:layout_weight="10"
+                android:src="@drawable/shirt_001"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ImageView
+                android:id="@+id/Store_down_cloth"
+                android:maxHeight="1000dip"
+                android:maxWidth="1000dip"
+                android:scaleType="fitCenter"
+                android:layout_weight="10"
+                android:src="@drawable/trouser_001"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/Storelinelayout3"
+            android:layout_gravity="right"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/Store_right_next_icon"
+                android:scaleType="center"
+                android:src="@drawable/right_next_icon"
+                android:background="#00000000"
+                android:layout_weight="10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

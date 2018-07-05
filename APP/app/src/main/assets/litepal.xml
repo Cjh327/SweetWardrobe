@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "sweetward" />
+    <version value = "1" />
+    <list>
+        <mapping class = "com.example.a13745.sweetward.weather.db.Province" />
+        <mapping class = "com.example.a13745.sweetward.weather.db.City" />
+        <mapping class = "com.example.a13745.sweetward.weather.db.County" />
+    </list>
+</litepal>
